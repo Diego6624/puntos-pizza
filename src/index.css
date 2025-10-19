@@ -7,3 +7,7 @@
   --color-sunset: #EFC987; /* Sunset */
   --color-peachYellow: #F9DFB0; /* Peach Yellow */
 }
+
+*{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
