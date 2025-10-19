@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+  --color-cooper: #AD7037; /* Cooper */
+  --color-burnUmber: #7F2B1E; /* Burn umber */
+  --color-cornsilk: #FEF2D5; /* Cornsilk */
+  --color-sunset: #EFC987; /* Sunset */
+  --color-peachYellow: #F9DFB0; /* Peach Yellow */
+}

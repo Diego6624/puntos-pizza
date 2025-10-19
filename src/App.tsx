@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className='p-1.5'>
+      <main className='p-1.5 min-h-screen'>
         <Outlet />
       </main>
       <Footer />
