@@ -4,7 +4,7 @@ import { Phone, Pizza, Search, ShoppingCart, User, UsersRound } from 'lucide-rea
 
 const Header = () => {
     return (<>
-        <div className="px-40 py-2 w-full h-auto flex border-t-10 border-burnUmber gap-5 items-center shadow-sm">
+        <div className="sticky top-0 px-40 py-2 w-full h-auto flex border-t-10 border-burnUmber bg-white gap-5 items-center shadow-sm">
             {/* Logo e input */}
             <div className='w-min h-auto p-2 flex items-center'>
                 <Link to="/" className='w-40 h-auto'>
